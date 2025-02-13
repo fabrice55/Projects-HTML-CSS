@@ -1,3 +1,3 @@
 # HTML AND CSS PROJECTS
 
-HTML and CSS project for my portfolio.
+HTML and CSS projects, static websites, for my portfolio.
